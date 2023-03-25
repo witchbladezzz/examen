@@ -125,4 +125,7 @@ img {
     li{
         display: inline;
     }
+    .p{
+        font-size: 12px;
+    }
 }
